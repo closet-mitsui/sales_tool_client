@@ -1,2 +1,2 @@
-# sales_tool_front
+# sales_tool_client
 営業ツールのフロントエンド
